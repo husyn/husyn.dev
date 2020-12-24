@@ -1,4 +1,5 @@
-title: Husyn.dev
+name: husyn.dev
+title: husyn.dev
 logo: "assets/images/favicon.ico"
 email: hussain@manshur.solutions
 description: >- # this means to ignore newlines until "baseurl:"
@@ -32,3 +33,16 @@ exclude:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
+# Authors
+authors:
+  husyn:
+    name: Husyn
+    display_name: Husyn
+    avatar: "assets/images/avatar.png"
+    gravatar: 9e461722a08efe3834ec576fcd328089
+    email: hussain@manshur.solutions
+    web: https://husyn.dev
+    twitter: https://twitter.com/husynraj
+    twitterHandle: husynraj
+    description: "A computer scientist with philosophical Software Engineering passion"
