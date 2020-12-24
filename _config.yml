@@ -23,7 +23,7 @@ email: hussain@manshur.solutions
 description: >- # this means to ignore newlines until "baseurl:"
   Personal blog in which I'll write about my YouTube videos, philosophies I have about Software Enginenering, Computer Science and Modern Application Development in general. 
   I love AWS Cloud and want others to understand the power of true Agile mindset.
-baseurl: "husyn.dev" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://husyn.dev" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: husynraj
 github_username:  husyn
