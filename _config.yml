@@ -1,6 +1,8 @@
+# Site
 name: husyn.dev
 title: husyn.dev
 logo: "assets/images/favicon.ico"
+favicon: 'assets/images/favicon.ico'
 email: hussain@manshur.solutions
 description: >- # this means to ignore newlines until "baseurl:"
   Personal blog in which I'll write about my YouTube videos, philosophies I have about Software Enginenering, Computer Science and Modern Application Development in general. 
@@ -9,37 +11,22 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://husyn.dev" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: husynraj
 github_username:  husyn
+include: ["_pages"]
+permalink: /:title/
 
-# Build settings
-theme: minima
-whitelist: [jekyll-analytics]
-plugins:
+# Plugins
+plugins: 
   - jekyll-feed
-  - jekyll-analytics
+  - jekyll-sitemap
+  - jekyll-paginate
   - jekyll-seo-tag
-
-jekyll_analytics:
-  GoogleAnalytics:
-    id: UA-186027956-1
-    anonymizeIp: false      # Optional - Default: false - set to true for anonymized tracking
-
-exclude:
-#   - .sass-cache/
-  - .jekyll-cache/
-#   - gemfiles/
-  - Gemfile
-  - Gemfile.lock
-  - vendor
-#   - node_modules/
-#   - vendor/bundle/
-#   - vendor/cache/
-#   - vendor/gems/
-#   - vendor/ruby/
-
+  
 # Authors
 authors:
   husyn:
     name: Husyn
+    site: https://husyn.dev
+    bio: ""
     display_name: Husyn
     avatar: "assets/images/avatar.png"
     gravatar: 9e461722a08efe3834ec576fcd328089
@@ -48,3 +35,32 @@ authors:
     twitter: https://twitter.com/husynraj
     twitterHandle: husynraj
     description: "A computer scientist with philosophical Software Engineering passion"
+ 
+# Defaults
+defaults:
+
+  # all posts
+  - scope:
+      path: "_posts"
+    values:
+      layout: post
+      author: sal
+      avatar: /assets/images/avatar.jpg
+      
+  # all pages
+  - scope:
+      path: "_pages"
+    values:
+      layout: page
+      
+# Syntax
+markdown: kramdown
+highlighter: rouge
+
+# Paginate
+paginate: 10
+
+
+
+# Exclude metadata and development time dependencies (like Grunt plugins)
+exclude: [README.markdown, package.json, grunt.js, Gruntfile.js, Gruntfile.coffee, node_modules]

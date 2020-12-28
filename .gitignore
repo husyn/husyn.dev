@@ -3,5 +3,8 @@ _site
 .jekyll-cache
 .jekyll-metadata
 vendor
+node_modules
+Gemfile.lock
 
+#for build and deploy scripts
 scripts/*
