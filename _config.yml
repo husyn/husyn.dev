@@ -3,7 +3,7 @@ name: husyn.dev
 title: husyn.dev
 logo: "assets/images/favicon.ico"
 favicon: 'assets/images/favicon.ico'
-email: hussain@manshur.solutions
+email: info@husyn.dev
 description: >- # this means to ignore newlines until "baseurl:"
   Personal blog in which I'll write about my YouTube videos, philosophies I have about Software Enginenering, Computer Science and Modern Application Development in general. 
   I love AWS Cloud and want others to understand the power of true Agile mindset.
@@ -30,7 +30,7 @@ authors:
     display_name: Husyn
     avatar: "assets/images/avatar.png"
     gravatar: 9e461722a08efe3834ec576fcd328089
-    email: hussain@manshur.solutions
+    email: info@husyn.dev
     web: https://husyn.dev
     twitter: https://twitter.com/husynraj
     twitterHandle: husynraj
