@@ -3,10 +3,15 @@ title: "Buy me a coffee"
 permalink: "/buy-me-a-coffee.html"
 ---
 
-Hi! I am Sal, web designer & developer at WowThemes.net. The free items I create are my side projects and **Mundana for Jekyll** is one of them. You can find **all the work I release for free [here](https://www.wowthemes.net/category/free-themes-templates/)**. 
+Hi! I am Husyn, Cloud Architect, DevOps Engineer & developer at [Manshur.Solutions](https://manshur.solutions).
 
-You have my permission to use the free items I develop in your personal, commercial or client projects. If you'd like to reward my work, I would be honored and I could dedicate more time maintaining the free projects. 
+In my free time I contribute to [Software Development Pakistan](http://softdevpk.com) website which define the basic of software development practices for newbies. 
+
+I'm admin of [AWS User Group Pakistan](https://www.facebook.com/groups/awsugpk) and [Karachi Freelancers](https://www.facebook.com/groups/karachifreelancers) Facebook groups. These groups also target to empower local tech communities. 
+
+You can find my open-source contributions at my [GitHub profile](http://github.com/husyn/). I also make videos on Cloud Computing primarily on AWS in Urdu/Hindi language. You can checkout my channel [All about Cloud](https://www.youtube.com/channel/UCQnAN556-_JeXfiQi9SgN_g).
+
 
 Thank you so much!
 
-<a class="btn btn-danger" href="https://www.wowthemes.net/donate/">Buy me a coffee</a>
+<a class="btn btn-danger" href="https://www.buymeacoffee.com/husyn">Buy me a coffee</a>
