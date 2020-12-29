@@ -3,21 +3,10 @@ title: "Contact"
 permalink: "/contact.html"
 ---
 
-<form
-  action="https://formspree.io/f/mbjpppvw"
-  method="POST"
->
-<p class="mb-4">Please send your message to {{site.name}}. We will reply as soon as possible!</p>
-  <label>
-    Your email:
-    <input type="text" name="_replyto">
-  </label>
-  <label>
-    Your message:
-    <textarea name="message"></textarea>
-  </label>
-
-  <button type="submit">Send</button>
+<form action="https://formspree.io/f/mbjpppvw" method="POST">
+  <input type="text" name="name">
+  <input type="email" name="_replyto">
+  <input type="submit" value="Send">
 </form>
 
 <form action="https://formspree.io/{{site.email}}" method="POST">    
