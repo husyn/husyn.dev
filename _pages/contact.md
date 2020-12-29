@@ -3,7 +3,7 @@ title: "Contact"
 permalink: "/contact.html"
 ---
 <div class="col-lg-6 col-md-12">
-          <form action="mailto:admin@manshur.solutions?subject=Website-Contact" id="contactForm" method="post"
+          <form action="mailto:hussain@husyn.dev?subject=husyn.dev-Contact" id="contactForm" method="POST"
             enctype="text/plain" target="_blank">
             <div class="row">
               <div class="col-md-6">
