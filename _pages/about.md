@@ -2,7 +2,7 @@
 title: "About"
 layout: default
 permalink: "/about.html"
-comments: true
+comments: false
 ---
 
 Hi! I am Husyn, Cloud Architect, DevOps Engineer & developer at [Manshur.Solutions](https://manshur.solutions).
