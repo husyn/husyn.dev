@@ -35,23 +35,6 @@ authors:
     twitter: https://twitter.com/husynraj
     twitterHandle: husynraj
     description: "A computer scientist with philosophical Software Engineering passion"
- 
-# Defaults
-defaults:
-
-  # all posts
-  - scope:
-      path: "_posts"
-    values:
-      layout: post
-      author: husyn
-      avatar: /assets/images/avatar.jpg
-      
-  # all pages
-  - scope:
-      path: "_pages"
-    values:
-      layout: page
       
 # Syntax
 markdown: kramdown
