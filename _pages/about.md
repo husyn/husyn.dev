@@ -1,6 +1,6 @@
 ---
 title: "About"
-layout: default
+layout: page-sidebar
 permalink: "/about.html"
 comments: false
 ---
