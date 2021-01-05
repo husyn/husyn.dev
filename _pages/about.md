@@ -5,7 +5,25 @@ permalink: "/about.html"
 comments: false
 ---
 
-Hi! I am Husyn, Cloud Architect, DevOps Engineer & developer at [Manshur.Solutions](https://manshur.solutions).
+<img src="assets/images/badges/da.png"
+     alt="AWS Developer Associate Badge"
+     style="float: left;" width="100px" />
+
+<img src="assets/images/badges/saa.png"
+     alt="AWS Solutions Architect Associate Badge"
+     style="float: left;"  width="100px" />
+
+<img src="assets/images/badges/psd.png"
+     alt="Professional Scrum Developer"
+     style="float: left;"  width="70px" />
+
+<img src="assets/images/badges/psm.png"
+     alt="Professional Scrum Master"
+     style="float: left; margin-right: 20px;"  width="70px" />
+
+Hi! I am Hussain, Cloud Architect, DevOps Engineer & Developer at [Manshur.Solutions](https://manshur.solutions).
+
+I'm Certified [AWS Solutions Architect (Associate)][aws-architect], [AWS Certified Developer][aws-developer], [Certified Professional Scrum Developer][scrum-developer], and [Certified Professional Scrum Master][scrum-master].
 
 In my free time I contribute to [Software Development Pakistan](http://softdevpk.com) website which define the basic of software development practices for newbies. 
 
@@ -17,3 +35,8 @@ You can find my open-source contributions at my [GitHub profile](http://github.c
 Thank you so much!
 
 <a class="btn btn-danger" href="https://www.buymeacoffee.com/husyn">Buy me a coffee</a>
+
+[aws-architect]: https://www.youracclaim.com/badges/9b211ff6-ec61-46ca-a372-5cefe1b7a453
+[aws-developer]: https://www.youracclaim.com/badges/ba6fa512-60a2-4135-875d-db330818e44e
+[scrum-developer]: https://www.scrum.org/certificates/398038
+[scrum-master]: https://www.scrum.org/certificates/308171
