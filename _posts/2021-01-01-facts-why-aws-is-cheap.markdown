@@ -17,7 +17,7 @@ Same like we have billing for our house utilities, cloud services are charged on
 
 ## Free Tier
 
-When we signup for a new AWS account, it comes with lot of free stuff. Some of these free tier services are for 12 months and some others are forever free (again based on usage). Get the details of all such services [here][aws-free-services].
+When we sign-up for a new AWS account, it comes with lot of free stuff. Some of these free tier services are for 12 months and some others are forever free (again based on usage). Get the details of all such services [here][aws-free-services].
 
 ## Student Program / AWS Education
 
@@ -26,24 +26,24 @@ If you're student then access AWS (limited) services for free via [AWS Educate][
 
 ## Startup Program / AWS Activate
 
-AWS specially love startups, not only they might be next Netflix app but it's all free promotion and adoption of AWS. A startup can get upto $100,000 in AWS credits. More details [here][aws-startup].
+AWS specially love startups, not only they might be next Netflix app but it's all free promotion and adoption of AWS. A startup can get up to $100,000 in AWS credits. More details [here][aws-startup].
  
 
 ## Reserve Instances
 
-If the application is compute intensive or just require stable EC2 instances then [Reserving instances][aws-ri] for 1 or 3 years is a good idea to save some bucks. It is upto 72% cheaper then on-demand (utility) price. 
+If the application is compute intensive or just require stable EC2 instances then [Reserving instances][aws-ri] for 1 or 3 years is a good idea to save some bucks. It is up to 72% cheaper then on-demand (utility) price. 
 
 ## Savings Plan
 
-[Savings plan][savings-plan] is similar to Reserved Instances where the purchase is not based on server per yera but $ per hour.
+[Savings plan][savings-plan] is similar to Reserved Instances where the purchase is not based on server per year but $ per hour.
 
 ## Spot Instances
 
-The magic behind the AWS on-demand capacity is _Redundancy_! But it also means that resource utilisation is not optimal most of the time. This extra capacity is available to the consumers via [SPOT Instances][spot-instances].
+The magic behind the AWS on-demand capacity is _Redundancy_! But it also means that resource utilization is not optimal most of the time. This extra capacity is available to the consumers via [SPOT Instances][spot-instances].
 
 ## AWS Lightsail
 
-Not every application is using Microservices Architecture. Infact majority of the web is working on PHP language and 35% is just [WordPress][wordpress-statistics]. To setup such server should not take few clicks and few mintues. That's what LightSail does! It has lot of templates to create servers with a fixed pricing model. LightSail is perfect entry point to the cloud for lot of users.
+Not every application is using Microservices Architecture. In fact majority of the web is working on PHP language and 35% is just [WordPress][wordpress-statistics]. To setup such server should not take few clicks and few minutes. That's what LightSail does! It has lot of templates to create servers with a fixed pricing model. LightSail is perfect entry point to the cloud for lot of users.
 
 ## Economy of Scale
 
@@ -51,7 +51,7 @@ This point applies for someone who is thinking long-term. As your cloud usage gr
 
 ## Commitment Free
 
-This is my favorite point and consideration with the cloud. There are just no commitments at all and anyone can mix and match any services with any provider. One can stop any serivce and not have to worry about the bills from that point onwards.
+This is my favorite point and consideration with the cloud. There are just no commitments at all and anyone can mix and match any services with any provider. One can stop any service and not have to worry about the bills from that point onwards.
 
 ### YouTube Video
 
