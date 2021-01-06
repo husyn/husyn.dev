@@ -3,7 +3,7 @@ layout: post
 author: husyn
 title:  "How to learn AWS Cloud?"
 categories: [ youtube, cloud, aws ]
-image: assets/images/
+image: assets/images/allaboutcloud-learning.jpg
 tags: [featured]
 ---
 
