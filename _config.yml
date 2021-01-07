@@ -5,7 +5,7 @@ logo: "assets/images/favicon.ico"
 favicon: 'assets/images/favicon.ico'
 email: info@husyn.dev
 description: >- # this means to ignore newlines until "baseurl:"
-  Personal blog in which I'll write about my YouTube videos, philosophies I have about Software Enginenering, Computer Science and Modern Application Development in general. 
+  Personal blog in which I'll write about my YouTube videos, philosophies I have about Software Engineering, Computer Science and Modern Application Development in general. 
   I love AWS Cloud and want others to understand the power of true Agile mindset.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://husyn.dev" # the base hostname & protocol for your site, e.g. http://example.com
@@ -34,7 +34,7 @@ authors:
     web: https://husyn.dev
     twitter: https://twitter.com/husynraj
     twitterHandle: husynraj
-    description: "A computer scientist with philosophical Software Engineering passion"
+    description: "A computer Scientist with philosophical Software Engineering passion"
       
 # Syntax
 markdown: kramdown
