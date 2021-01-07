@@ -23,9 +23,9 @@ comments: false
 
 Hi! I am Hussain, Cloud Architect, DevOps Engineer & Developer at [Manshur.Solutions](https://manshur.solutions).
 
-I'm Certified [AWS Solutions Architect (Associate)][aws-architect], [AWS Certified Developer][aws-developer], [Certified Professional Scrum Developer][scrum-developer], and [Certified Professional Scrum Master][scrum-master].
+I'm Certified [AWS Solutions Architect (Associate)][aws-architect], [AWS Certified Developer][aws-developer], [Certified Professional Scrum Developer][scrum-developer], and [Certified Professional Scrum Master][scrum-master]. By formal education I have BS in Computer Sciences and MS in Software Engineering. My thesis is on Microservices process improvement. 
 
-In my free time I contribute to [Software Development Pakistan](http://softdevpk.com) website which define the basic of software development practices for newbies. 
+In my free time I contribute to [Software Development Pakistan](http://softdevpk.com) website which define the basics of software development practices for newbies. 
 
 I'm admin of [AWS User Group Pakistan](https://www.facebook.com/groups/awsugpk) and [Karachi Freelancers](https://www.facebook.com/groups/karachifreelancers) Facebook groups. These groups also target to empower local tech communities. 
 
