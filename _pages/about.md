@@ -31,7 +31,7 @@ I'm admin of [AWS User Group Pakistan](https://www.facebook.com/groups/awsugpk) 
 
 You can find my open-source contributions at my [GitHub profile](http://github.com/husyn/). I also make videos on Cloud Computing primarily on AWS in Urdu/Hindi language. You can checkout my channel [All about Cloud](https://www.youtube.com/channel/UCQnAN556-_JeXfiQi9SgN_g).
 
-I've presented in [AWS User Group Malaysia][aws-usergroup-malaysia] on the topic of **Moving from CloudFormation to Terraform and Beyond** video is available [here][awsug-malaysia-video]. I also presented in [DevOps Malaysia][devops-malaysia] Meetup on the topic of **SRE in Mobile Engineering**.
+I've presented in [AWS User Group Malaysia][aws-usergroup-malaysia] on the topic of **Moving from CloudFormation to Terraform and Beyond** video is available [here][awsug-malaysia-video]. I also presented in [DevOps Malaysia][devops-malaysia] Meetup on the topic of **SRE Practices in Mobile Engineering**.
 
 Thank you so much!
 
