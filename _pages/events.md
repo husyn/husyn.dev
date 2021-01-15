@@ -23,14 +23,14 @@ I've presented in few events as speaker. Details of few of such events is mentio
 
 ### ONLINE
 
--	Core Contributor of [SOFTWARE DEVELOPMENT PAKISTAN][soft-dev-pakistan]
--	Admin and Contributor in AWS USER GROUP PAKISTAN (https://www.facebook.com/groups/AWSUGPK)
--	Admin and Contributor in Karachi Freelancers (https://www.facebook.com/groups/Karachifreelancers)
--	YouTube channel – All about Cloud (https://www.youtube.com/channel/UCQnAN556-_JeXfiQi9SgN_g)
+-	Core Contributor of [SOFTWARE DEVELOPMENT PAKISTAN](https://softdevpk.com)
+-	Admin and Contributor in [AWS USER GROUP PAKISTAN](https://www.facebook.com/groups/AWSUGPK)
+-	Admin and Contributor in [Karachi Freelancers](https://www.facebook.com/groups/Karachifreelancers)
+-	YouTube channel – [All about Cloud](https://www.youtube.com/channel/UCQnAN556-_JeXfiQi9SgN_g)
 
 
 [devops-malaysia]: https://www.meetup.com/DevOpsMalaysia/events/265462658/
 [aws-usergroup-malaysia]: https://www.meetup.com/AWSUGMY/events/272642576/
 [awsug-malaysia-video]: https://www.youtube.com/watch?v=fiG1iC7D4ow
 [barcamp-cyberjaya]: https://barcampcyberjaya.org
-[soft-dev-pakistan]: https://softdevpk.com
+
