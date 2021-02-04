@@ -9,7 +9,8 @@ I've presented in few events as speaker. Details of few of such events is mentio
 
 ### Pakistan
 
-- Webinar on Intro to Cloud and Free Website hosting on AWS - [Online, FAST NUCES 2020](https://www.facebook.com/FASTNUCESKHI/photos/pcb.3745980845517140/3745980618850496)
+- Introduction to ServerLess and hands-on lab on AWS Lambda - [Facebook Live - January 2021](https://www.facebook.com/events/168729428369834/)
+- Webinar on Intro to Cloud and Free Website hosting on AWS - [Webinar, FAST NUCES 2020](https://www.facebook.com/FASTNUCESKHI/photos/pcb.3745980845517140/3745980618850496)
 -	Talk ok Games Development – IBA (Karachi) 2012
 -	iOS Applications and Game Development Guest Lecture – FAST NUCES 2012
 - iOS Application Development Workshop – FAST NUCES 2011
