@@ -25,7 +25,16 @@ Hi! I am Hussain, Cloud Architect, DevOps Engineer & Developer at [Manshur.Solut
 
 
 ### Certifications & Education
-I'm Certified [AWS Solutions Architect (Associate)][aws-architect], [AWS Certified Developer][aws-developer], [Certified Professional Scrum Developer][scrum-developer], and [Certified Professional Scrum Master][scrum-master] and recently (Jan 2021) I got certified as [Incident Responder][incident-responder]. By formal education I have BS in Computer Sciences and MS in Software Engineering. My thesis is on Microservices process improvement. 
+
+I have following certifications: 
+
+- [AWS Solutions Architect (Associate)][aws-architect] 
+- [AWS Certified Developer][aws-developer]
+- [Certified Professional Scrum Developer][scrum-developer] 
+- [Certified Professional Scrum Master][scrum-master]
+- [Incident Responder][incident-responder]
+
+By formal education I have BS in Computer Sciences and MS in Software Engineering. My thesis is on Microservices process improvement. 
 
 ### Community Contributions
 In my free time I contribute to [Software Development Pakistan](http://softdevpk.com) website which define the basics of software development practices for newbies. 
