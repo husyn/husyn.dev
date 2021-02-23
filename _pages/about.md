@@ -21,7 +21,10 @@ comments: false
      alt="Professional Scrum Master"
      style="float: left; margin-right: 20px;"  width="70px" />
 
+
+
 Hi! I am Hussain, Cloud Architect, DevOps Engineer & Developer at [Manshur.Solutions](https://manshur.solutions).
+
 
 
 ### Certifications & Education
