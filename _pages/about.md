@@ -23,7 +23,8 @@ comments: false
 
 
 
-Hi! I am Hussain, Cloud Architect, DevOps Engineer & Developer at [Manshur.Solutions](https://manshur.solutions).
+Hi! I am (Husyn) Hussain Mansoor. Cloud Architect, DevOps Engineer & Developer at [Manshur.Solutions](https://manshur.solutions).
+
 
 
 
