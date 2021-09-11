@@ -9,7 +9,9 @@ I've presented in few events as speaker. Details of few of such events is mentio
 
 ### Pakistan
 
-- Introduction to ServerLess and hands-on lab on AWS Lambda - [Facebook Live - January 2021](https://www.facebook.com/events/168729428369834/)
+- Mentor in AI/ML Reactor by Amazon Web Services (AWS) and Epiphany - [AI/ML Reactor](https://epiphany.com.pk/ai-ml-reactor/)
+- Serverless Cloud Computing - University of Centeral Punjab (UCP) Discussion Rooms, Summer Talk Series - [Facebook Live - 10 September 2021](https://www.facebook.com/ieeeucpsb/videos/564529721659554)
+- Introduction to Serverless and hands-on lab on AWS Lambda - [Facebook Live - January 2021](https://www.facebook.com/events/168729428369834/)
 - Webinar on Intro to Cloud and Free Website hosting on AWS - [Webinar, FAST NUCES 2020](https://www.facebook.com/FASTNUCESKHI/photos/pcb.3745980845517140/3745980618850496)
 -	Talk on Mobile Games Development – IBA (Karachi) 2012
 -	iOS Applications and Game Development Guest Lecture – FAST NUCES 2012
