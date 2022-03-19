@@ -3,7 +3,6 @@ layout: post
 author: husyn
 title:  "DevOps / Systems Engineering Tools"
 categories: [ devops, cloud, tools, systems-engineering ]
-image: assets/images/allaboutcloud-learning.jpg
 tags: [featured]
 ---
 
