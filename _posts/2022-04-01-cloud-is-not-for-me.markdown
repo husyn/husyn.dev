@@ -15,7 +15,7 @@ But even in recent times the perception has not changed. It has improved but sti
 I have seen many other issues like 
 - Scarcity of experts
 - Dependency on 3rd party AWS partners, vendors or AWS support
-- Democritization of decisions 
+- Democritization of decisions
+- Time
 
-
-With these 
+Out of the issues which I've mentioned, *time* is the most critical one. Quite a number of times, large organisations (through their employees) become comfortable in what they know. They don't want to go extra mile and explore new areas of developments. In such organisations, Cloud is always an after thought. Some IT leader in management thinks that world is moving to cloud and we also should. And that's how the organisation moves towards cloud ad
