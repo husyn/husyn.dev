@@ -25,7 +25,7 @@ comments: false
      alt="PagerDuty Incident Responder"
      style="float: left; margin-right: 20px;"  width="70px" />
 
-
+<br clear="left"/>
 
 Hi! I am (Husyn) Hussain Mansoor. Cloud Architect, DevOps Engineer & Developer at [Manshur.Solutions](https://manshur.solutions).
 
