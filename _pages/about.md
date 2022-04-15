@@ -23,7 +23,7 @@ comments: false
 
 <img src="assets/images/badges/pd_ic.png"
      alt="PagerDuty Incident Responder"
-     style="float: left;" />
+     style="float: left;" width="150px"/>
 
 <br clear="left"/>
 
