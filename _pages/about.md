@@ -19,7 +19,7 @@ comments: false
 
 <img src="assets/images/badges/psm.png"
      alt="Professional Scrum Master"
-     style="float: left; margin-right: 20px;"  width="70px" />
+     style="float: left;"  width="70px" />
 
 <img src="assets/images/badges/pd_ic.png"
      alt="PagerDuty Incident Responder"
