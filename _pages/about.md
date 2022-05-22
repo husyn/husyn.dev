@@ -39,13 +39,13 @@ Hi! I am (Husyn) Hussain Mansoor. Cloud Architect, DevOps Engineer & Developer a
 
 ### Community Contributions
 
-- In my free time I contribute to [Software Development Pakistan](http://softdevpk.com) website which define the basics of software development practices for newbies. 
+- In March 2022 I became an [AWS Community Builder as Serverless Expert](https://aws.amazon.com/developer/community/community-builders/community-builders-directory/?cb-cards.q=hussain%2Bmansoor)
+
+- In my free time I contribute to [Software Development Pakistan](http://softdevpk.com) community.
 
 - I'm admin of [AWS User Group Pakistan](https://www.facebook.com/groups/awsugpk) and [Karachi Freelancers](https://www.facebook.com/groups/karachifreelancers) Facebook groups. These groups also target to empower local tech communities. 
 
 - You can find my open-source contributions at my [GitHub profile](http://github.com/husyn/). I also make videos on Cloud Computing primarily on AWS in Urdu/Hindi language. You can checkout my channel [All about Cloud](https://www.youtube.com/channel/UCQnAN556-_JeXfiQi9SgN_g)
-
-- In March 2022 I became an AWS Community Builder as Serverless Expert
 
 ### Presentations and Trainings
 
