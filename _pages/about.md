@@ -66,7 +66,7 @@ Hi! I am (Husyn) Hussain Mansoor. Cloud Architect, DevOps Engineer & Developer a
 
 -	SRE Practices in Mobile Engineering – [DevOps Malaysia](https://www.meetup.com/DevOpsMalaysia/events/265462658/) 2019
 -	Why everyone should go for Masters Degree - [Bar Camp (MMU) Cyberjaya](https://barcampcyberjaya.org) 2020
--	Moving from CloudFormation to Terraform and Beyond – [AWS User Group Malaysia](https://www.meetup.com/AWSUGMY/events/272642576/) 2020
+-	Moving from CloudFormation to Terraform and Beyond - [AWS User Group Malaysia Meetup](https://www.meetup.com/AWSUGMY/events/272642576/) [YouTube video](https://www.youtube.com/watch?v=fiG1iC7D4ow)- 27 August 2020 – Online
 
 #### ONLINE
 
