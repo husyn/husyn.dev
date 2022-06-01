@@ -100,3 +100,7 @@ At this level few years of AWS usage is recommended. All the knowledge in fundam
 Every organisation have to develop some kind of policies / rules around the competency of their employees. This competency decides career paths, promotions and compensations. How awesome it would be that every organisation clearly document this and make this public to (at least) all the employees, then a lot of debate and waste can be eliminated. Alas, our world is not perfect! 
 
 However I love that AWS has this sorted out in their certifications. Level 100 is the practitioner certificate. Level 200 can be mapped to associate level certificates. 300 or 400 level to Professional ones and Speciality ones. There's still lot of wisdom which can't be tested or exhibit by any certification. That could be level 500s which is specialised and reserved for PhD level studies. Large Enterprises have complexities which require skillset at this 500 level. That's one of the reason that still a lot of businesses are not 100% cloud native or taking a slow route towards it.
+
+## Update
+Similar to Cloud maturity model, Dario Goldfarb from AWS shared a [Security Maturity Model](https://maturitymodel.security.aws.dev/en/). It is nice to have these basic knoledge documented and available for everyone to guage where are they in terms of security.
+

@@ -55,6 +55,9 @@ Hi! I am (Husyn) Hussain Mansoor. Cloud Architect, DevOps Engineer & Developer a
 
 ### Presentations and Trainings
 
+#### UAE
+- AWS User Group Dubai Meetup # 18 speaker - Topic [Scaling the Cloud](https://www.meetup.com/AWS-Dubai/events/284756861/)
+
 #### Pakistan
 
 - Mentor in AI/ML Reactor by Amazon Web Services (AWS) and Epiphany - [AI/ML Reactor](https://epiphany.com.pk/ai-ml-reactor/)
@@ -70,16 +73,13 @@ Hi! I am (Husyn) Hussain Mansoor. Cloud Architect, DevOps Engineer & Developer a
 
 -	SRE Practices in Mobile Engineering – [DevOps Malaysia](https://www.meetup.com/DevOpsMalaysia/events/265462658/) 2019
 -	Why everyone should go for Masters Degree - [Bar Camp (MMU) Cyberjaya](https://barcampcyberjaya.org) 2020
--	Moving from CloudFormation to Terraform and Beyond – [AWS User Group Malaysia](https://www.meetup.com/AWSUGMY/events/272642576/) 2020
+-	Moving from CloudFormation to Terraform and Beyond - [AWS User Group Malaysia Meetup](https://www.meetup.com/AWSUGMY/events/272642576/) / [YouTube video](https://www.youtube.com/watch?v=fiG1iC7D4ow&t=19s)- 27 August 2020 – Online
 
-#### ONLINE
+#### Others
 
+-    [AWS User Group Leader](https://meetu.ps/c/2GXCh/6g00F/d) - Dubai
+-    [AWS Community Builder](https://aws.amazon.com/developer/community/community-builders/community-builders-directory/?cb-cards.q=Hussain%2BMansoor) - Serverless Expert 
 -	Core Contributor of [SOFTWARE DEVELOPMENT PAKISTAN](https://softdevpk.com)
 -	Admin and Contributor in [AWS USER GROUP PAKISTAN](https://www.facebook.com/groups/AWSUGPK)
 -	Admin and Contributor in [Karachi Freelancers](https://www.facebook.com/groups/Karachifreelancers)
 -	YouTube channel – [All about Cloud](https://www.youtube.com/channel/UCQnAN556-_JeXfiQi9SgN_g)
-
-
-[aws-usergroup-malaysia]: https://www.meetup.com/AWSUGMY/events/272642576/
-[awsug-malaysia-video]: https://www.youtube.com/watch?v=fiG1iC7D4ow
-[devops-malaysia]: https://www.meetup.com/DevOpsMalaysia/events/265462658/
