@@ -13,6 +13,10 @@ comments: false
      alt="AWS Solutions Architect Associate Badge"
      style="float: left;"  width="100px" />
 
+<img src="assets/images/badges/ugl.png"
+     alt="AWS User Group Leader (Dubai)"
+     style="float: left;"  width="100px" />
+
 <img src="assets/images/badges/psd.png"
      alt="Professional Scrum Developer"
      style="float: left;"  width="70px" />
