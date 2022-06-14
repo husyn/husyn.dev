@@ -35,7 +35,7 @@ Hi! I am (Husyn) Hussain Mansoor. Cloud Architect, DevOps Engineer & Developer a
 
 ### Certifications
 
-- [AWS Solutions Architect (Associate)](https://www.youracclaim.com/badges/9b211ff6-ec61-46ca-a372-5cefe1b7a453) 
+- [AWS Solutions Architect (Associate)](https://www.credly.com/badges/a635f81f-c09c-498e-8178-10368a55dfab/public_url) 
 - [AWS Certified Developer](https://www.youracclaim.com/badges/ba6fa512-60a2-4135-875d-db330818e44e)
 - [Certified Professional Scrum Developer](https://www.scrum.org/certificates/398038)
 - [Certified Professional Scrum Master](https://www.scrum.org/certificates/308171)
