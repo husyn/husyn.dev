@@ -3,7 +3,7 @@ layout: post
 author: husyn
 title:  "DevOps / Systems Engineering Tools"
 categories: [ devops, cloud, tools, systems-engineering ]
-tags: [featured]
+tags: []
 ---
 
 Originally posted at [iHusyn](https://ihusyn.wordpress.com/2018/09/09/devops-tools/)

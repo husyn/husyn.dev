@@ -3,7 +3,7 @@ layout: post
 author: husyn
 title:  "Cloud is not for us"
 categories: [cloud, aws, migration, devops, cloud adoption ]
-tags: [featured]
+tags: []
 ---
 
 For some Cloud is an apparent truth. For others it is unknown territory which is yet to be matured or explored by them. We as humans are always afraid of unknowns and when the change impacts hundreds or thousands of people where majority of them are not exposed to the destination then it really is scary. 

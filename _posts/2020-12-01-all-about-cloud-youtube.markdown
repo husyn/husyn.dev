@@ -4,7 +4,7 @@ author: husyn
 title:  "Youtube Journey Begins"
 categories: [ youtube, cloud, aws ]
 image: assets/images/all-about-cloud-youtube.png
-tags: [featured]
+tags: []
 ---
 
 In the year 2020 when many things were "unprecedented", towards the end of the year I planned to do something which I always wanted to! I want to share my tacit understanding of technology and share it with the world. There are gazillion options out there to learn Cloud Computing for e.g.: [A Cloud Guru][a-clout-guru], [Linux Academy][linux-academy], [Udemy][udemy], [Coursera][coursera], [LinkedIn Learning][linkedin-learning], [Cloud Documentation Pages][cloud-documentation], [YouTube][youtube], [Twitch][twitch], etc, etc.
