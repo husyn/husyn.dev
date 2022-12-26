@@ -43,7 +43,9 @@ Hi! I am (Husyn) Hussain Mansoor. Cloud Architect, DevOps Engineer & Developer a
 
 ### Community Contributions
 
-- In May 2022 I joined [AWS User Group Dubai](https://meetu.ps/c/2GXCh/6g00F/d) as co-organiser.
+- On 10th December 2022 hosted first ever [AWS Community Day UAE](http://awsmena.community) 2022
+
+- In May 2022 I joined [AWS User Group Dubai](https://meetu.ps/c/2GXCh/6g00F/d) as co-organiser
 
 - In March 2022 I became an [AWS Community Builder as Serverless Expert](https://aws.amazon.com/developer/community/community-builders/community-builders-directory/?cb-cards.q=hussain%2Bmansoor)
 
