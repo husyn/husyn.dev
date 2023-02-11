@@ -4,7 +4,7 @@ author: husyn
 title:  "Is Cloud Expensive?"
 categories: [ youtube, cloud, aws ]
 image: assets/images/is-cloud-expensive.png
-tags: [featured]
+tags: []
 ---
 
 The Cloud (Computing) is one of the latest trends in Software industry. Well yes it's not so latest as AWS was launched in mid 2000s and since then has become a monster of its own. There was a famous iPhone commercial [There's an app for that][iphone-commercial]. And now we can say that for any use-case there's a "[Service for that!][aws-services]" AWS is the Cloud services provider which has the majority market cap in this space. Still it is small compared with the whole software industry. 

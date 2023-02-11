@@ -4,7 +4,7 @@ author: husyn
 title:  "How to learn AWS Cloud?"
 categories: [ youtube, cloud, aws ]
 image: assets/images/allaboutcloud-learning.jpg
-tags: [featured]
+tags: []
 ---
 
 If I have to tell you the name or details of companies like Netflix, Twitch, LinkedIn, BBC, Sony, Adobe or Twitter and many more then this post is not for you. The cloud computing is a myth and we're better of with Abacus. If not, then all of these companies and thousands others use Cloud for their computing needs. 

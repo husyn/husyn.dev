@@ -3,7 +3,7 @@ layout: post
 author: husyn
 title:  "Cloud usage maturity levels"
 categories: [cloud, aws, devops, cloud adoption, maturity level]
-tags: [featured]
+tags: []
 image: assets/images/cloud-usage-maturity-levels.png
 ---
 
