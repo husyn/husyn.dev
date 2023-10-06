@@ -5,6 +5,10 @@ permalink: "/about.html"
 comments: false
 ---
 
+<img src="assets/images/badges/aai.png"
+     alt="AWS Authorised Instructor Badge"
+     style="float: left;" width="100px" />
+
 <img src="assets/images/badges/da.png"
      alt="AWS Developer Associate Badge"
      style="float: left;" width="100px" />
@@ -35,6 +39,7 @@ Hi! I am (Husyn) Hussain Mansoor. Cloud Architect, DevOps Engineer & Developer a
 
 ### Certifications
 
+- [AWS Authorised Instructor](https://www.credly.com/badges/ff298bf6-202a-41c9-a56d-47797c1f18ce/public_url) 
 - [AWS Solutions Architect (Associate)](https://www.credly.com/badges/a635f81f-c09c-498e-8178-10368a55dfab/public_url) 
 - [AWS Certified Developer](https://www.youracclaim.com/badges/ba6fa512-60a2-4135-875d-db330818e44e)
 - [Certified Professional Scrum Developer](https://www.scrum.org/certificates/398038)
