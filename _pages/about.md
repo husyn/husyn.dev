@@ -7,19 +7,19 @@ comments: false
 
 <img src="assets/images/badges/aai.png"
      alt="AWS Authorised Instructor Badge"
-     style="float: left;" width="100px" />
+     style="float: left;" width="200px" />
 
 <img src="assets/images/badges/da.png"
      alt="AWS Developer Associate Badge"
-     style="float: left;" width="100px" />
+     style="float: left;" width="200px" />
 
 <img src="assets/images/badges/saa.png"
      alt="AWS Solutions Architect Associate Badge"
-     style="float: left;"  width="100px" />
+     style="float: left;"  width="200px" />
 
 <img src="assets/images/badges/ugl.png"
      alt="AWS User Group Leader (Dubai)"
-     style="float: left;"  width="100px" />
+     style="float: left;"  width="200px" />
 
 <br clear="left"/>
 
@@ -33,7 +33,7 @@ comments: false
 
 <img src="assets/images/badges/pd_ic.png"
      alt="PagerDuty Incident Responder"
-     style="float: left;" width="150px"/>
+     style="float: left;" width="120px"/>
 
 <br clear="left"/>
 
