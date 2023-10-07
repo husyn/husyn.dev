@@ -25,11 +25,11 @@ comments: false
 
 <img src="assets/images/badges/psd.png"
      alt="Professional Scrum Developer"
-     style="float: left;"  width="70px" />
+     style="float: left;"  width="160px" />
 
 <img src="assets/images/badges/psm.png"
      alt="Professional Scrum Master"
-     style="float: left;"  width="70px" />
+     style="float: left;"  width="160px" />
 
 <img src="assets/images/badges/pd_ic.png"
      alt="PagerDuty Incident Responder"
