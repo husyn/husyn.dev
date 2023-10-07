@@ -7,19 +7,19 @@ comments: false
 
 <img src="assets/images/badges/aai.png"
      alt="AWS Authorised Instructor Badge"
-     style="float: left;" width="180px" />
+     style="float: left;" width="160px" />
 
 <img src="assets/images/badges/da.png"
      alt="AWS Developer Associate Badge"
-     style="float: left;" width="180px" />
+     style="float: left;" width="160px" />
 
 <img src="assets/images/badges/saa.png"
      alt="AWS Solutions Architect Associate Badge"
-     style="float: left;"  width="180px" />
+     style="float: left;"  width="160px" />
 
 <img src="assets/images/badges/ugl.png"
      alt="AWS User Group Leader (Dubai)"
-     style="float: left;"  width="180px" />
+     style="float: left;"  width="160px" />
 
 <br clear="left"/>
 
