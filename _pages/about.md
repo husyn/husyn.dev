@@ -20,7 +20,9 @@ comments: false
 <img src="assets/images/badges/ugl.png"
      alt="AWS User Group Leader (Dubai)"
      style="float: left;"  width="100px" />
-<br/>
+
+<br clear="left"/>
+
 <img src="assets/images/badges/psd.png"
      alt="Professional Scrum Developer"
      style="float: left;"  width="70px" />
@@ -28,7 +30,7 @@ comments: false
 <img src="assets/images/badges/psm.png"
      alt="Professional Scrum Master"
      style="float: left;"  width="70px" />
-     
+
 <img src="assets/images/badges/pd_ic.png"
      alt="PagerDuty Incident Responder"
      style="float: left;" width="150px"/>
