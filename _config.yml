@@ -13,6 +13,7 @@ twitter_username: husynraj
 github_username:  husyn
 include: ["_pages"]
 permalink: /:title/
+google_analytics: G-Y0GRNQG7LV
 
 # Plugins
 plugins: 
