@@ -19,7 +19,7 @@ The solution from AWS for email inbox is [Amazon Workmail](https://aws.amazon.co
 
 We must create at least 1 user (with mailbox). This user will help us set up all the required configurations and glue Domain (Route53), Workmail, and SES together automatically by AWS. Once we have this working inbox, we'll use the underlying SES to have *unlimited* email free inboxes 🥳. This solution enables us to create any number of free usernames and gives us ability to send emails from and receive emails to these usernames. But the catch is that there's no inbox for each username. Emails received will be forwarded to one of the mailboxes and we'll use gmail's feature to send emails using our custom domain. This is obviously not feasible for large teams but is quite useful for small teams or individual projects.
 
-So, let's being. After the working mailbox is created, go to [Amazon SES](https://us-east-1.console.aws.amazon.com/ses/home) -> (left menu) Configuration -> Email receiving. You'll see a rule set <ins>INBOUND_MAIL</ins> `Active`. This ruleset will have a rule with name like `m-xx...` and will show 2 things when clicked on. **Conditions** with the custom domain and **Actions** set to *Integrate with Amazon Workmail*. 
+So, let's begin. After the working mailbox is created, go to [Amazon SES](https://us-east-1.console.aws.amazon.com/ses/home) -> (left menu) Configuration -> Email receiving. You'll see a rule set <ins>INBOUND_MAIL</ins> `Active`. This ruleset will have a rule with name like `m-xx...` and will show 2 things when clicked on. **Conditions** with the custom domain and **Actions** set to *Integrate with Amazon Workmail*. 
 
 ![Rule Conditions](../assets/images/ses-rule-conditions-actions.png)
 
@@ -38,7 +38,7 @@ Replace all caps values with real values
 <details>
 <summary>S3 Bucket Policy</summary>
 
-```JSON
+<pre><code class="language-json">
 {
     "Version": "2012-10-17",
     "Statement": [
@@ -58,13 +58,13 @@ Replace all caps values with real values
         }
     ]
 }
-```
+</code></pre>
 </details>
 
 <details> 
 <summary> IAM Role for Lambda </summary>
 
-```JSON
+<pre><code class="language-json">
 {
     "Version": "2012-10-17",
     "Statement": [
@@ -103,14 +103,14 @@ Replace all caps values with real values
         }
     ]
 }
-```
+</code></pre>
 </details>
 
 <details> 
 <summary> Python Code Lambda </summary>
 We assume mailbox_email@CUSTOM_DOMAIN is the mailbox created in Amazon Workmail.
 
-```PYTHON
+<pre><code class="language-python">
 import boto3
 import email
 from botocore.exceptions import ClientError
@@ -179,8 +179,8 @@ def lambda_handler(event, context):
     except Exception as e:
         print(f"CRITICAL ERROR: {str(e)}")
         raise e
-```
-</details> </br>
+</code></pre>
+</details>
 
 In our scenario, if the `mailbox_email@CUSTOM_DOMAIN` receives an email, it is handled by the 1st rule and email goes to inbox. For me, after Workmail rule, SES was triggering my catch-all rule resulting in duplication. To handle this, in the python code I'm specially checking for `if "mailbox_email@CUSTOM_DOMAIN" in recipients: `. This is to ignore the processing if email is meant to be for Workmail mailbox. 
 
