@@ -1,0 +1,19 @@
+---
+layout: post
+author: husyn
+title:  "Earning Complexity on Cloud"
+categories: [cloud, architecture, strategy, maturity level]
+tags: [kubernetes, serverless, aws, technical-decision-making]
+---
+
+In cloud architecture, most failures don’t come from bad technology choices, they come from premature technology choices. Teams often jump to the most complex solution because it's popular, modern, or “enterprise-grade,” without first considering simpler and more robust alternatives. On AWS, the (cloud) platform itself is designed to reward incremental complexity. Both in terms of capabilities and costing. The best architectures are those where decisions are taken in a clear hierarchy, moving from simple to complex only when there is a dire need.
+
+A common example is resilience. Many organizations rush into multi-cloud strategies to avoid vendor lock-in or regional failures. Following [KISS principle](https://en.wikipedia.org/wiki/KISS_principle) this is plain stupid! This is usually the most expensive and operationally complex option. Before even thinking about multi-cloud, AWS already offers strong primitives for resilience. Multi-region architectures can handle regional outages and regulatory constraints far more cleanly than splitting workloads across providers. And even before multi-region, multi-AZ deployments solve the majority of high-availability requirements with minimal added operational burden. I once interviewed at a place and the interviewer took pride in the fact that they use AWS, Azure, GCP and Alibaba Cloud. This is to reduce vendor lock-in. Poor engineers with this leadership mindset.
+
+The same principle applies at the compute layer. Teams often default to server-based architectures because they feel familiar or controllable, but servers introduce ongoing patching, scaling, and availability concerns. Before provisioning EC2 fleets, it’s worth considering whether serverless services can solve the problem. AWS serverless offerings remove entire classes of operational work and failures. And for many workloads like APIs, event-driven processing, background or batch jobs; they provide better reliability by design than hand-managed servers.
+
+Container orchestration is another area where complexity is frequently adopted too early. Kubernetes is powerful, but it comes with significant cognitive and operational overhead, even when managed. Kubernetes should be adopted if that's the solution to your problem. Not because it's popular! Before committing to Kubernetes within a single cloud, simpler options like ECS, or fully managed application services should be evaluated. In many cases, these alternatives deliver the required scalability and isolation without forcing teams to operate a distributed control plane. Running Lambda is any day better solution than Kubernetes on Fargate. Use the later only when it's the only solution.
+
+This hierarchy of decisions is not about avoiding complexity forever; it’s about earning it. Each step up the ladder should be justified by clear requirements that cannot be met at a lower level. Complexity should be a response to real constraints like scale, performance, latency, organizational structure. Not a default starting point. AWS makes this progression natural by offering mature solutions at every layer of abstraction.
+
+In the end, good cloud architecture is less about choosing the most advanced tool and more about choosing the right one at the right time. Alas, too few organizations understand this even today. By consciously moving from multi-AZ to multi-region, from serverless to servers only when necessary, and from simple managed services to more complex platforms, teams build systems that are easier to operate, cheaper to run, and more resilient in practice. The smartest architectures are rarely the most complex. They’re the most deliberate in nature.
