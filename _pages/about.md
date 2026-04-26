@@ -5,6 +5,14 @@ permalink: "/about.html"
 comments: false
 ---
 
+<img src="assets/images/badges/dopro.png"
+     alt="AWS DevOps Engineer – Professional Badge"
+     style="float: left;" width="160px" />
+
+<img src="assets/images/badges/aipractitioner.png"
+     alt="AWS AI Practitioner Badge"
+     style="float: left;" width="160px" />
+
 <img src="assets/images/badges/aai.png"
      alt="AWS Authorised Instructor Badge"
      style="float: left;" width="160px" />
@@ -37,10 +45,11 @@ comments: false
 
 <br clear="left"/>
 
-Hi! I am (Husyn) Hussain Mansoor. Cloud Architect, DevOps Engineer & Developer at [Manshur.Solutions](https://manshur.solutions).
+Hi! I am (Husyn) Hussain Mansoor. Engineering Manager @ [Manshur.Solutions](https://manshur.solutions).
 
 ### Certifications
-
+- [AWS Certified DevOps Engineer – Professional](https://www.credly.com/badges/23af5df4-d60c-4fa8-92a2-37f9f1280379/public_url)
+- [AWS Certified AI Practitioner](https://www.credly.com/badges/8a76042d-a1fa-40cc-82e2-06b07828fdd6/public_url)
 - [AWS Authorised Instructor](https://www.credly.com/badges/ff298bf6-202a-41c9-a56d-47797c1f18ce/public_url) 
 - [AWS Solutions Architect (Associate)](https://www.credly.com/badges/a635f81f-c09c-498e-8178-10368a55dfab/public_url) 
 - [AWS Certified Developer](https://www.youracclaim.com/badges/ba6fa512-60a2-4135-875d-db330818e44e)
