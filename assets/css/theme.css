@@ -16,6 +16,14 @@ body {
 img {
 	max-width:100%;
 }
+img.about-badge {
+	float:left;
+	width:160px;
+	height:160px;
+	object-fit:contain;
+	margin:0 16px 16px 0;
+	padding:8px;
+}
 .tofront {
 	position:relative;
 	z-index:1;

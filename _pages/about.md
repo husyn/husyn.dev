@@ -5,43 +5,34 @@ permalink: "/about.html"
 comments: false
 ---
 
-<img src="assets/images/badges/dopro.png"
-     alt="AWS DevOps Engineer – Professional Badge"
-     style="float: left;" width="160px" />
+<img class="about-badge" src="assets/images/badges/dopro.png"
+     alt="AWS DevOps Engineer – Professional Badge" />
 
-<img src="assets/images/badges/aipractitioner.png"
-     alt="AWS AI Practitioner Badge"
-     style="float: left;" width="160px" />
+<img class="about-badge" src="assets/images/badges/aipractitioner.png"
+     alt="AWS AI Practitioner Badge" />
 
-<img src="assets/images/badges/aai.png"
-     alt="AWS Authorised Instructor Badge"
-     style="float: left;" width="160px" />
+<img class="about-badge" src="assets/images/badges/aai.png"
+     alt="AWS Authorised Instructor Badge" />
 
-<img src="assets/images/badges/da.png"
-     alt="AWS Developer Associate Badge"
-     style="float: left;" width="160px" />
+<img class="about-badge" src="assets/images/badges/da.png"
+     alt="AWS Developer Associate Badge" />
 
-<img src="assets/images/badges/saa.png"
-     alt="AWS Solutions Architect Associate Badge"
-     style="float: left;"  width="160px" />
+<img class="about-badge" src="assets/images/badges/saa.png"
+     alt="AWS Solutions Architect Associate Badge" />
 
-<img src="assets/images/badges/ugl.png"
-     alt="AWS User Group Leader (Dubai)"
-     style="float: left;"  width="160px" />
+<img class="about-badge" src="assets/images/badges/ugl.png"
+     alt="AWS User Group Leader (Dubai)" />
 
 <br clear="left"/>
 
-<img src="assets/images/badges/psd.png"
-     alt="Professional Scrum Developer"
-     style="float: left;"  width="160px" />
+<img class="about-badge" src="assets/images/badges/psd.png"
+     alt="Professional Scrum Developer" />
 
-<img src="assets/images/badges/psm.png"
-     alt="Professional Scrum Master"
-     style="float: left;"  width="160px" />
+<img class="about-badge" src="assets/images/badges/psm.png"
+     alt="Professional Scrum Master" />
 
-<img src="assets/images/badges/pd_ic.png"
-     alt="PagerDuty Incident Responder"
-     style="float: left;" width="160px"/>
+<img class="about-badge" src="assets/images/badges/pd_ic.png"
+     alt="PagerDuty Incident Responder" />
 
 <br clear="left"/>
 
