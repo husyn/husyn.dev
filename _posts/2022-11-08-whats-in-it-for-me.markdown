@@ -3,7 +3,7 @@ layout: post
 author: husyn
 title:  "What's in it for me?"
 categories: [meetup, community, networking, learning, speaking]
-tags: [featured]
+tags: []
 image: assets/images/whatsinitforme.jpeg
 ---
 

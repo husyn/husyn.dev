@@ -3,7 +3,7 @@ layout: post
 author: husyn
 title:  "How to be an Architect?"
 categories: [architect, career, growth]
-tags: [featured]
+tags: []
 image: assets/images/how-architect.png
 ---
 
