@@ -4,6 +4,7 @@ author: husyn
 title:  "Migrating from AWS WorkMail to Hostinger Email"
 categories: [cloud, migration]
 tags: [email, aws workmail, migration, hostinger email, dns, business email]
+image: assets/images/email_migration.jpg
 ---
 
 > "To make an apple pie from scratch, you must first invent the universe." [Carl Sagan](https://www.imdb.com/name/nm0755981/quotes/)
