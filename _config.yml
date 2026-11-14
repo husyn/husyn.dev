@@ -9,7 +9,6 @@ description: >- # this means to ignore newlines until "baseurl:"
   I love AWS Cloud and want others to understand the power of true Agile mindset.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://husyn.dev" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: husynraj
 github_username:  husyn
 include: ["_pages"]
 permalink: /:title/
@@ -33,8 +32,6 @@ authors:
     gravatar: 9e461722a08efe3834ec576fcd328089
     email: info@husyn.dev
     web: https://husyn.dev
-    twitter: https://twitter.com/husynraj
-    twitterHandle: husynraj
     description: "A computer Scientist with philosophical Software Engineering passion"
       
 # Syntax
