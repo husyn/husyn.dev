@@ -2,6 +2,7 @@
 layout: post
 author: husyn
 title:  "DevOps / Systems Engineering Tools"
+description: "DevOps and SRE tools I have used or evaluated, covering CI, CD, infrastructure as code, monitoring and more, with quick notes on each."
 categories: [ devops, cloud, tools, systems-engineering ]
 tags: []
 ---

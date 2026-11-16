@@ -2,6 +2,7 @@
 layout: post
 author: husyn
 title:  "Cloud is not for us"
+description: "Common fears about moving to the cloud, from security and cost to losing control, and why most of them no longer hold up."
 categories: [cloud, aws, migration, devops, cloud adoption ]
 tags: []
 ---

@@ -2,6 +2,7 @@
 layout: post
 author: husyn
 title:  "Migrating from AWS WorkMail to Hostinger Email"
+description: "AWS WorkMail is reaching end of support. How I migrated business mailboxes to Hostinger Email step by step, with no downtime."
 categories: [cloud, migration]
 tags: [email, aws workmail, migration, hostinger email, dns, business email]
 image: assets/images/email_migration.jpg

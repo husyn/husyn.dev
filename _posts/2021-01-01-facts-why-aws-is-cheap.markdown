@@ -2,6 +2,7 @@
 layout: post
 author: husyn
 title:  "Is Cloud Expensive?"
+description: "Is the cloud really expensive? Ten reasons why AWS can cost less than on-premises once you count the total cost of ownership."
 categories: [ youtube, cloud, aws ]
 image: assets/images/is-cloud-expensive.png
 tags: []

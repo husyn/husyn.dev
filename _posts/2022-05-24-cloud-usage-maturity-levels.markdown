@@ -2,6 +2,7 @@
 layout: post
 author: husyn
 title:  "Cloud usage maturity levels"
+description: "Cloud maturity explained with university-style levels from 100 to 400, plus the AWS trainings and courses that fit each level."
 categories: [cloud, aws, devops, cloud adoption, maturity level]
 tags: []
 image: assets/images/cloud-usage-maturity-levels.png

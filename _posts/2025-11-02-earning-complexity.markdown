@@ -2,6 +2,7 @@
 layout: post
 author: husyn
 title:  "Earning Complexity on Cloud"
+description: "Avoid premature complexity on AWS: prefer multi-AZ before multi-region, serverless before servers, and ECS before Kubernetes."
 categories: [cloud, architecture, strategy, maturity level]
 tags: [kubernetes, serverless, aws, technical-decision-making]
 ---

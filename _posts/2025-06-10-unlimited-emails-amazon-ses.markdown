@@ -2,6 +2,7 @@
 layout: post
 author: husyn
 title:  "Unlimited Emails Using Amazon SES"
+description: "Get unlimited custom-domain email addresses with a single paid WorkMail inbox, using Amazon SES receipt rules, S3 and Lambda."
 categories: [cloud, aws, email]
 tags: [ses, costing]
 ---

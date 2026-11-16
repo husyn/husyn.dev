@@ -2,6 +2,7 @@
 layout: post
 author: husyn
 title:  "What's in it for me?"
+description: "Why I volunteer to organise AWS User Group Dubai meetups and workshops, and what tech communities give back to the people in them."
 categories: [meetup, community, networking, learning, speaking]
 tags: []
 image: assets/images/whatsinitforme.jpeg

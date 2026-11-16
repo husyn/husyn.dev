@@ -2,6 +2,7 @@
 layout: post
 author: husyn
 title:  "How to be an Architect?"
+description: "What software and solutions architects actually do, how the role differs between organisations, and how developers can grow into it."
 categories: [architect, career, growth]
 tags: []
 image: assets/images/how-architect.jpg

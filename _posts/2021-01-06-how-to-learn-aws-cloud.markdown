@@ -2,6 +2,7 @@
 layout: post
 author: husyn
 title:  "How to learn AWS Cloud?"
+description: "With 175+ AWS services, where should a beginner start? A practical path to learning AWS cloud without getting overwhelmed."
 categories: [ youtube, cloud, aws ]
 image: assets/images/allaboutcloud-learning.jpg
 tags: []

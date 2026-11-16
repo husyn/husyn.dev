@@ -2,6 +2,7 @@
 layout: post
 author: husyn
 title:  "Youtube Journey Begins"
+description: "Why I started the All About Cloud YouTube channel: free, beginner-friendly cloud computing videos that need no prior knowledge."
 categories: [ youtube, cloud, aws ]
 image: assets/images/all-about-cloud-youtube.png
 tags: []
