@@ -4,7 +4,7 @@ author: husyn
 title:  "How to be an Architect?"
 categories: [architect, career, growth]
 tags: []
-image: assets/images/how-architect.png
+image: assets/images/how-architect.jpg
 ---
 
 The one question which I asked a lot while being a developer half of my career. And is a common question I receive working as full time Solutions Architect. I rarely got 2 similar answers to the question. But it is somewhat agreed understanding that Architects in a technical team are very senior people who should know everything. This is not a complete truth and nor a lie. What architects are supposed to do (I believe) still varies from organisation to organisation.

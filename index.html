@@ -58,7 +58,7 @@ description: "Personal experiences on AWS, YouTube, Software Architecture, Agile
                 <div class="col-md-4">
                     <a href="{{site.baseurl}}{{second_post.url}}">
                         <img class="w-100" src="{% if second_post.image contains " ://" %}{{ second_post.image }}{% else
-                            %}{{ second_post.image | absolute_url }}{% endif %}" alt="{{ second_post.title }}">
+                            %}{{ second_post.image | absolute_url }}{% endif %}" alt="{{ second_post.title }}" loading="lazy" decoding="async">
                     </a>
                 </div>
                 {% endif %}
@@ -86,7 +86,7 @@ description: "Personal experiences on AWS, YouTube, Software Architecture, Agile
                 <div class="col-md-4">
                     <a href="{{site.baseurl}}{{third_post.url}}">
                         <img class="w-100" src="{% if third_post.image contains " ://" %}{{ third_post.image }}{% else
-                            %}{{site.baseurl}}/{{ third_post.image }}{% endif %}" alt="{{ third_post.title }}">
+                            %}{{site.baseurl}}/{{ third_post.image }}{% endif %}" alt="{{ third_post.title }}" loading="lazy" decoding="async">
                     </a>
                 </div>
                 {% endif %}
@@ -114,7 +114,7 @@ description: "Personal experiences on AWS, YouTube, Software Architecture, Agile
                 <div class="col-md-4">
                     <a href="{{site.baseurl}}{{fourth_post.url}}">
                         <img class="w-100" src="{% if fourth_post.image contains " ://" %}{{ fourth_post.image }}{% else
-                            %}{{site.baseurl}}/{{ fourth_post.image }}{% endif %}" alt="{{ fourth_post.title }}">
+                            %}{{site.baseurl}}/{{ fourth_post.image }}{% endif %}" alt="{{ fourth_post.title }}" loading="lazy" decoding="async">
                     </a>
                 </div>
                 {% endif %}
@@ -152,9 +152,12 @@ description: "Personal experiences on AWS, YouTube, Software Architecture, Agile
                     </p>
                     <a href="{{site.baseurl}}{{post.url}}" class="btn btn-dark">Read More</a>
                 </div>
+                {% if post.image %}
+                {% if post.image contains "://" %}{% assign sticky_image = post.image %}{% else %}{% assign sticky_image = post.image | prepend: "/" | prepend: site.baseurl %}{% endif %}
                 <div class="col-md-6 d-none d-md-block pr-0"
-                    style="background-size:cover;background-image:url({{site.baseurl}}/{{ post.image }});">
+                    style="background-size:cover;background-image:url('{{ sticky_image }}');">
                 </div>
+                {% endif %}
             </div>
         </div>
     </div>
